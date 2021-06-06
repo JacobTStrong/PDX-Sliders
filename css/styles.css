@@ -1,3 +1,72 @@
-.head h1, p{
+.box1 {
+  width: 100%;
+  border: solid red;
+  border-width: 10px;
+  background-color: white;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box1 h1 {
   text-align: center;
+  font-size: 40px;
+}
+
+.box1 p {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500px;
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bulk h2 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  margin-top: 50px;
+}
+
+.bulk p {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bottom h3 {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.bottom p {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ul {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.column {
+  width: 100%;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 70px;
+}
+
+a {
+  color: red;
 }
