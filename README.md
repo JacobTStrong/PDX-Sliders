@@ -19,8 +19,7 @@ This project was made in order to practice GitHub branches as well as general HT
 * Clone this repository to your desktop.
 * Locate the sliders.html file.
 * Open the sliders.html file to view the main webpage.
-* Click on the "menu" on the main webpage to view the limited menu!
-* The menu can also be viewed by locating and opening the menu.html file in the GitHub [repository](https://github.com/JacobTStrong/PDX-Sliders).
+* Once the repository is cloned, the menu can be viewed by clicking on the "menu" link on the main page or by locating and opening the menu.html file in the GitHub [repository](https://github.com/JacobTStrong/PDX-Sliders).
 
 ## Known Bugs
 
